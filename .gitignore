@@ -161,4 +161,4 @@ cython_debug/
 
 # Temporary folders
 temp/
-report/
+report/report.csv
