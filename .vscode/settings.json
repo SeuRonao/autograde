@@ -1,0 +1,16 @@
+{
+  "cSpell.words": [
+    "autograde",
+    "Autograde",
+    "autograding",
+    "dropna",
+    "dtype",
+    "funcoes",
+    "github"
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
+}
